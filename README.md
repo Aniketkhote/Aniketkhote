@@ -5,7 +5,7 @@ I'm Aniket and I am Full stack web developer as well as Flutter developer.
 * 🔭 I’m currently working on Flutter package [`customize`](https://pub.dev/packages/customize)
 * 👯 I’m looking to collaborate on packages
 * 🤔 I’m looking for help with https://pub.dev/packages/customize
-* 📫 How to reach me:aniketkhote@gmail.com
+* 📫 How to reach me:aniketkhote99@gmail.com
 
 ##  ⚡ Connect With Me
 
@@ -13,7 +13,7 @@ I'm Aniket and I am Full stack web developer as well as Flutter developer.
 [![Linkedin Badge](https://img.shields.io/badge/-aniketkhote-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-khote/)](https://www.linkedin.com/in/aniket-khote/)
 [![Twitter Badge](https://img.shields.io/badge/-aniketkhote99-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aniketkhote99/)](https://twitter.com/aniketkhote99)
 [![Instagram Badge](https://img.shields.io/badge/-aniket.khote-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aniket.khote/)](https://instagram.com/aniket.khote)
-[![Github Badge](https://img.shields.io/badge/-aniket.khote-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Aniketkhote/)](https://github.com/Aniketkhote)
+[![Github Badge](https://img.shields.io/badge/-Aniketkhote-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Aniketkhote/)](https://github.com/Aniketkhote)
 
 ***
 
