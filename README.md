@@ -9,7 +9,7 @@ I'm Aniket and I am Full stack web developer as well as Flutter developer.
 
 ##  ⚡ Connect With Me
 
-[![Website Badge](https://img.shields.io/badge/-aniketkhote.com-red?style=flat-square&logo=tor-browser&logoColor=white&link=https://aniketkhote.com)](https://www.aniketkhote.com)
+[![Website Badge](https://img.shields.io/badge/-Dreamlancer-red?style=flat-square&logo=tor-browser&logoColor=white&link=https://dreamlancer.in)](https://www.dreamlancer.in)
 [![Linkedin Badge](https://img.shields.io/badge/-aniketkhote-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-khote/)](https://www.linkedin.com/in/aniket-khote/)
 [![Twitter Badge](https://img.shields.io/badge/-aniketkhote99-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aniketkhote99/)](https://twitter.com/aniketkhote99)
 [![Instagram Badge](https://img.shields.io/badge/-aniket.khote-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aniket.khote/)](https://instagram.com/aniket.khote)
