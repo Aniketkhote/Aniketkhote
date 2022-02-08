@@ -40,5 +40,3 @@ I'm Aniket and I am Full stack web developer as well as Flutter developer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketkhote&hide=TeX&layout=compact&theme=dark)
 
 [![Aniket Khote's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Aniketkhote&repo=customize&theme=dark)](https://github.com/Aniketkhote/customize)
-
-[![Aniket Khote's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Aniketkhote&repo=agrobid&theme=dark)](https://github.com/Aniketkhote/agrobid)
