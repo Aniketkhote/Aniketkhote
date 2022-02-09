@@ -2,9 +2,9 @@
 
 I'm Aniket and I am Full stack web developer as well as Flutter developer.
 
-* 🔭 I’m currently working on Flutter package [`customize`](https://pub.dev/packages/customize)
+* 🔭 I’m currently working on Flutter package [`Addon`](https://pub.dev/packages/addon)
 * 👯 I’m looking to collaborate on packages
-* 🤔 I’m looking for help with https://pub.dev/packages/customize
+* 🤔 I’m looking for help with https://pub.dev/packages/addon
 * 📫 How to reach me:aniketkhote99@gmail.com
 
 ##  ⚡ Connect With Me
