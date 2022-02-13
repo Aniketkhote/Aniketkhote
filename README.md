@@ -2,9 +2,9 @@
 
 I'm Aniket and I am Full stack web developer as well as Flutter developer.
 
-* 🔭 I’m currently working on Flutter package [`Quicker`](https://pub.dev/packages/quicker)
+* 🔭 I’m currently working on Flutter package [`Quickly`](https://pub.dev/packages/quickly)
 * 👯 I’m looking to collaborate on packages
-* 🤔 I’m looking for help with https://pub.dev/packages/quicker
+* 🤔 I’m looking for help with https://pub.dev/packages/quickly
 * 📫 How to reach me:aniketkhote99@gmail.com
 
 ##  ⚡ Connect With Me
@@ -39,4 +39,4 @@ I'm Aniket and I am Full stack web developer as well as Flutter developer.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Aniketkhote&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketkhote&hide=TeX&layout=compact&theme=dark)
 
-[![Aniket Khote's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Aniketkhote&repo=Quicker&theme=dark)](https://github.com/Aniketkhote/Quicker)
+[![Aniket Khote's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Aniketkhote&repo=Quickly&theme=dark)](https://github.com/Aniketkhote/Quickly)
