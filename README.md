@@ -9,7 +9,6 @@ I'm Aniket and I am Full stack web developer as well as Flutter developer.
 
 ##  ⚡ Connect With Me
 
-[![Website Badge](https://img.shields.io/badge/-Dreamlancer-red?style=flat-square&logo=tor-browser&logoColor=white&link=https://dreamlancer.in)](https://www.dreamlancer.in)
 [![Linkedin Badge](https://img.shields.io/badge/-aniketkhote-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-khote/)](https://www.linkedin.com/in/aniket-khote/)
 [![Twitter Badge](https://img.shields.io/badge/-aniketkhote99-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aniketkhote99/)](https://twitter.com/aniketkhote99)
 [![Instagram Badge](https://img.shields.io/badge/-aniket.khote-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aniket.khote/)](https://instagram.com/aniket.khote)
@@ -24,7 +23,6 @@ I'm Aniket and I am Full stack web developer as well as Flutter developer.
 ![Flutter](https://img.shields.io/badge/-flutter-blue?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-dart-blue?style=flat-square&logo=dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
