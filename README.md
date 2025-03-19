@@ -2,9 +2,8 @@
 
 I'm Aniket and I am Full stack web developer as well as Flutter developer.
 
-* 🔭 I’m currently working on Flutter package [`Quickly`](https://pub.dev/packages/quickly)
+* 🔭 I’m currently working on Flutter package [`Bunvel`](https://github.com/bunvel/bunvel) [`Refreshed`](https://pub.dev/packages/refreshed) & [`Quickly`](https://pub.dev/packages/quickly)
 * 👯 I’m looking to collaborate on packages
-* 🤔 I’m looking for help with https://pub.dev/packages/quickly
 * 📫 How to reach me:aniketkhote99@gmail.com
 
 ##  ⚡ Connect With Me
@@ -18,18 +17,20 @@ I'm Aniket and I am Full stack web developer as well as Flutter developer.
 
 ## ⚡ Technology
 
-![Laravel](https://img.shields.io/badge/-laravel-white?style=flat-square&logo=laravel)
-![Vue](https://img.shields.io/badge/-vue.js-black?style=flat-square&logo=vue.js)
-![Flutter](https://img.shields.io/badge/-flutter-blue?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-dart-blue?style=flat-square&logo=dart)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Bun](https://img.shields.io/badge/-Bun-181717?style=flat-square&logo=bun)
+![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat-square&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon-aws)
+![Supabase](https://img.shields.io/badge/-Supabase-181717?style=flat-square&logo=supabase)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-181717?style=flat-square&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript)
+![Laravel](https://img.shields.io/badge/-laravel-181717?style=flat-square&logo=laravel)
+![Flutter](https://img.shields.io/badge/-flutter-181717?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-dart-181717?style=flat-square&logo=dart)
+![Java](https://img.shields.io/badge/-java-181717?style=flat-square&logo=java)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
+![Cursor](https://img.shields.io/badge/-Cursor-181717?style=flat-square&logo=cursor)
+![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
