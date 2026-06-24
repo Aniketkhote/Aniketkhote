@@ -2,7 +2,7 @@
 
 I'm Aniket and I am Full stack web developer as well as Flutter developer.
 
-* 🔭 I’m currently working on Flutter package [`Bunvel`](https://github.com/bunvel/bunvel) [`Refreshed`](https://pub.dev/packages/refreshed) & [`Quickly`](https://pub.dev/packages/quickly)
+* 🔭 I’m currently working on Flutter package [`Bunvel`](https://github.com/bunvel/bunvel) [`Getxify`](https://pub.dev/packages/getxify) & [`Getxify utils`](https://pub.dev/packages/getxify_utils)
 * 👯 I’m looking to collaborate on packages
 * 📫 How to reach me:aniketkhote99@gmail.com
 
